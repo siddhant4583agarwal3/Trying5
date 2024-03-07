@@ -1,0 +1,17 @@
+{
+  "template": "https://github.com/siddhant4583agarwal3/cookiecutter-python/",
+  "commit": "8c598d2e2303582b17f7fc8e30b6f30d34dea5eb",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Siddhant Agarwal",
+      "email": "siddhant4583agarwal3@gmail.com",
+      "github_username": "siddhant4583agarwal3",
+      "project_name": "Trying5",
+      "description": "Project short description.",
+      "version": "0.0.1",
+      "_template": "https://github.com/siddhant4583agarwal3/cookiecutter-python/"
+    }
+  },
+  "directory": null
+}
