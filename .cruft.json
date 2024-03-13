@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/siddhant4583agarwal3/cookiecutter-python/",
-  "commit": "b940ef9731b1a6312db14a1f547e3a6d89715bfb",
+  "commit": "d9d30d57eb48c92f48e3337fe2a00e3baca864b9",
   "checkout": null,
   "context": {
     "cookiecutter": {
