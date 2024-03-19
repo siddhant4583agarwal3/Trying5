@@ -5,6 +5,7 @@ from pathlib import Path
 def refactor(string: str) -> str:
     print("changes to template")
     print("changes to new template")
+    print("chnages to 2 ")
     return string.replace("./", "").replace("/", ".").replace("\\", ".").replace(".py", "")
 
 
